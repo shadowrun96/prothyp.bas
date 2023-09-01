@@ -1,0 +1,2 @@
+# prothyp.bas
+PRIME MINISTER by COSMON SOFTWARE
